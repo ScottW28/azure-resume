@@ -6,7 +6,7 @@ My Azure Resume following [ACG project video.]()
 - Frontend Folder contains the website.
 - main.js contains visitor counter code.
 
-## Re-evauluted
+## Re-evaulute
 
 - profile picture
 - skills 
