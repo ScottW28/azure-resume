@@ -1,2 +1,13 @@
 # azure-resume
-Azure Resume
+My Azure Resume following [ACG project video.]()
+
+## First Steps
+
+- Frontend Folder contains the website.
+- main.js contains visitor counter code.
+
+## Re-evauluted
+
+- profile picture
+- skills 
+
