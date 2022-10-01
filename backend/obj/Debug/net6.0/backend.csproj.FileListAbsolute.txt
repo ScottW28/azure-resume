@@ -1,0 +1,6 @@
+/home/will/azure-resume/backend/obj/Debug/net6.0/backend.csproj.AssemblyReference.cache
+/home/will/azure-resume/backend/obj/Debug/net6.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/will/azure-resume/backend/obj/Debug/net6.0/backend.AssemblyInfoInputs.cache
+/home/will/azure-resume/backend/obj/Debug/net6.0/backend.AssemblyInfo.cs
+/home/will/azure-resume/backend/obj/Debug/net6.0/backend.csproj.CoreCompileInputs.cache
+/home/will/azure-resume/backend/bin/Debug/net6.0/CoverletSourceRootsMapping
