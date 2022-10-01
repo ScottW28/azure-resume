@@ -15,7 +15,7 @@ jobs:
   build-and-deploy:
     runs-on: windows-latest
     steps:
-  - name: 'Checkout Github Action'
+    - name: 'Checkout Github Action'
     uses: actions/checkout@main
 
   - name: 'Login via Azure CLI'
